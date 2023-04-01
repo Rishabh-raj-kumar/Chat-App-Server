@@ -1,2 +1,2 @@
 # Chat-App-Server
- server for chat app
+ Server created for chat app with node js
